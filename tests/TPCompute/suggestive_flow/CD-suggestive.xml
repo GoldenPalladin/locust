@@ -1,0 +1,955 @@
+<?xml version="1.0" encoding="UTF-8"?><PrescriptionFormData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://aligntech.com/Prescription/1.0" schemaVersion="22.0">
+  <Header>
+    <Alta>false</Alta>
+    <ClinicalID>ghubba63</ClinicalID>
+    <DID>219026</DID>
+    <VIPPatientID>8606315</VIPPatientID>
+    <JDEPatientID>8838214</JDEPatientID>
+    <JDEOrderID>29080736</JDEOrderID>
+    <VIPOrderID>19400738</VIPOrderID>
+    <TreatmentType>INV_LITE</TreatmentType>
+    <MaxAllowedStages>14</MaxAllowedStages>
+    <PatientType>Teen</PatientType>
+    <DoctorRegion>NORTHAM_DIRECT</DoctorRegion>
+    <DoctorCountry>US</DoctorCountry>
+    <OrderType>INV_LITE</OrderType>
+    <TransactionID>67001497</TransactionID>
+    <Timestamp>2019-04-01T12:04:51.682-07:00</Timestamp>
+    <DoctorsMarket>Domestic</DoctorsMarket>
+    <DocumentType>SO</DocumentType>
+    <ApplianceMaterialType>ST30</ApplianceMaterialType>
+    <ItemNumber>8842</ItemNumber>
+    <RxSubmissionMode>Online</RxSubmissionMode>
+  </Header>
+  <PrescriptionQuestions>
+    <PrimaryProduct>
+      <ToothNumberingSystem qid="String" isApplicable="true" source="preference">Palmer</ToothNumberingSystem>
+      <Leveling qid="String" isApplicable="true" source="preference">
+        <IncisalEdges>
+          <LevelAmount>Laterals0_5mmMoreGingivalThenCentrals</LevelAmount>
+        </IncisalEdges>
+      </Leveling>
+      <Attachments qid="String" isApplicable="true" source="preference">
+        <Tooth id="4">
+          <Attachment id="1" purpose="Rotation">
+            <Type>Optimized Rotation</Type>
+            <Bevel xsi:nil="true"/>
+            <Orientation xsi:nil="true"/>
+            <Location>CenterCenter</Location>
+            <Surface>Buccal</Surface>
+            <Size units="mm">autosize</Size>
+            <Status>NotChanged</Status>
+          </Attachment>
+        </Tooth>
+        <Tooth id="5">
+          <Attachment id="1" purpose="Rotation">
+            <Type>Optimized Rotation</Type>
+            <Bevel xsi:nil="true"/>
+            <Orientation xsi:nil="true"/>
+            <Location>CenterCenter</Location>
+            <Surface>Buccal</Surface>
+            <Size units="mm">autosize</Size>
+            <Status>NotChanged</Status>
+          </Attachment>
+        </Tooth>
+        <Tooth id="6">
+          <Attachment id="1" purpose="Rotation">
+            <Type>Optimized Rotation</Type>
+            <Bevel xsi:nil="true"/>
+            <Orientation xsi:nil="true"/>
+            <Location>CenterCenter</Location>
+            <Surface>Buccal</Surface>
+            <Size units="mm">autosize</Size>
+            <Status>NotChanged</Status>
+          </Attachment>
+          <Attachment id="2" purpose="Extrusion">
+            <Type>Optimized Extrusion</Type>
+            <Bevel xsi:nil="true"/>
+            <Orientation xsi:nil="true"/>
+            <Location>CenterCenter</Location>
+            <Surface>Buccal</Surface>
+            <Size units="mm">autosize</Size>
+            <Status>NotChanged</Status>
+          </Attachment>
+        </Tooth>
+        <Tooth id="7">
+          <Attachment id="1" purpose="Extrusion">
+            <Type>Optimized Extrusion</Type>
+            <Bevel xsi:nil="true"/>
+            <Orientation xsi:nil="true"/>
+            <Location>CenterCenter</Location>
+            <Surface>Buccal</Surface>
+            <Size units="mm">autosize</Size>
+            <Status>NotChanged</Status>
+          </Attachment>
+        </Tooth>
+        <Tooth id="8">
+          <Attachment id="1" purpose="Extrusion">
+            <Type>Optimized Extrusion</Type>
+            <Bevel xsi:nil="true"/>
+            <Orientation xsi:nil="true"/>
+            <Location>CenterCenter</Location>
+            <Surface>Buccal</Surface>
+            <Size units="mm">autosize</Size>
+            <Status>NotChanged</Status>
+          </Attachment>
+        </Tooth>
+        <Tooth id="9">
+          <Attachment id="1" purpose="Extrusion">
+            <Type>Optimized Extrusion</Type>
+            <Bevel xsi:nil="true"/>
+            <Orientation xsi:nil="true"/>
+            <Location>CenterCenter</Location>
+            <Surface>Buccal</Surface>
+            <Size units="mm">autosize</Size>
+            <Status>NotChanged</Status>
+          </Attachment>
+        </Tooth>
+        <Tooth id="10">
+          <Attachment id="1" purpose="Extrusion">
+            <Type>Optimized Extrusion</Type>
+            <Bevel xsi:nil="true"/>
+            <Orientation xsi:nil="true"/>
+            <Location>CenterCenter</Location>
+            <Surface>Buccal</Surface>
+            <Size units="mm">autosize</Size>
+            <Status>NotChanged</Status>
+          </Attachment>
+        </Tooth>
+        <Tooth id="11">
+          <Attachment id="1" purpose="Rotation">
+            <Type>Optimized Rotation</Type>
+            <Bevel xsi:nil="true"/>
+            <Orientation xsi:nil="true"/>
+            <Location>CenterCenter</Location>
+            <Surface>Buccal</Surface>
+            <Size units="mm">autosize</Size>
+            <Status>NotChanged</Status>
+          </Attachment>
+          <Attachment id="2" purpose="Extrusion">
+            <Type>Optimized Extrusion</Type>
+            <Bevel xsi:nil="true"/>
+            <Orientation xsi:nil="true"/>
+            <Location>CenterCenter</Location>
+            <Surface>Buccal</Surface>
+            <Size units="mm">autosize</Size>
+            <Status>NotChanged</Status>
+          </Attachment>
+        </Tooth>
+        <Tooth id="12">
+          <Attachment id="1" purpose="Rotation">
+            <Type>Optimized Rotation</Type>
+            <Bevel xsi:nil="true"/>
+            <Orientation xsi:nil="true"/>
+            <Location>CenterCenter</Location>
+            <Surface>Buccal</Surface>
+            <Size units="mm">autosize</Size>
+            <Status>NotChanged</Status>
+          </Attachment>
+        </Tooth>
+        <Tooth id="13">
+          <Attachment id="1" purpose="Rotation">
+            <Type>Optimized Rotation</Type>
+            <Bevel xsi:nil="true"/>
+            <Orientation xsi:nil="true"/>
+            <Location>CenterCenter</Location>
+            <Surface>Buccal</Surface>
+            <Size units="mm">autosize</Size>
+            <Status>NotChanged</Status>
+          </Attachment>
+        </Tooth>
+        <Tooth id="20">
+          <Attachment id="1" purpose="Rotation">
+            <Type>Optimized Rotation</Type>
+            <Bevel xsi:nil="true"/>
+            <Orientation xsi:nil="true"/>
+            <Location>CenterCenter</Location>
+            <Surface>Buccal</Surface>
+            <Size units="mm">autosize</Size>
+            <Status>NotChanged</Status>
+          </Attachment>
+        </Tooth>
+        <Tooth id="21">
+          <Attachment id="1" purpose="Rotation">
+            <Type>Optimized Rotation</Type>
+            <Bevel xsi:nil="true"/>
+            <Orientation xsi:nil="true"/>
+            <Location>CenterCenter</Location>
+            <Surface>Buccal</Surface>
+            <Size units="mm">autosize</Size>
+            <Status>NotChanged</Status>
+          </Attachment>
+        </Tooth>
+        <Tooth id="22">
+          <Attachment id="1" purpose="Rotation">
+            <Type>Optimized Rotation</Type>
+            <Bevel xsi:nil="true"/>
+            <Orientation xsi:nil="true"/>
+            <Location>CenterCenter</Location>
+            <Surface>Buccal</Surface>
+            <Size units="mm">autosize</Size>
+            <Status>NotChanged</Status>
+          </Attachment>
+          <Attachment id="2" purpose="Extrusion">
+            <Type>Optimized Extrusion</Type>
+            <Bevel xsi:nil="true"/>
+            <Orientation xsi:nil="true"/>
+            <Location>CenterCenter</Location>
+            <Surface>Buccal</Surface>
+            <Size units="mm">autosize</Size>
+            <Status>NotChanged</Status>
+          </Attachment>
+        </Tooth>
+        <Tooth id="23">
+          <Attachment id="1" purpose="Extrusion">
+            <Type>Optimized Extrusion</Type>
+            <Bevel xsi:nil="true"/>
+            <Orientation xsi:nil="true"/>
+            <Location>CenterCenter</Location>
+            <Surface>Buccal</Surface>
+            <Size units="mm">autosize</Size>
+            <Status>NotChanged</Status>
+          </Attachment>
+        </Tooth>
+        <Tooth id="24">
+          <Attachment id="1" purpose="Extrusion">
+            <Type>Optimized Extrusion</Type>
+            <Bevel xsi:nil="true"/>
+            <Orientation xsi:nil="true"/>
+            <Location>CenterCenter</Location>
+            <Surface>Buccal</Surface>
+            <Size units="mm">autosize</Size>
+            <Status>NotChanged</Status>
+          </Attachment>
+        </Tooth>
+        <Tooth id="25">
+          <Attachment id="1" purpose="Extrusion">
+            <Type>Optimized Extrusion</Type>
+            <Bevel xsi:nil="true"/>
+            <Orientation xsi:nil="true"/>
+            <Location>CenterCenter</Location>
+            <Surface>Buccal</Surface>
+            <Size units="mm">autosize</Size>
+            <Status>NotChanged</Status>
+          </Attachment>
+        </Tooth>
+        <Tooth id="26">
+          <Attachment id="1" purpose="Extrusion">
+            <Type>Optimized Extrusion</Type>
+            <Bevel xsi:nil="true"/>
+            <Orientation xsi:nil="true"/>
+            <Location>CenterCenter</Location>
+            <Surface>Buccal</Surface>
+            <Size units="mm">autosize</Size>
+            <Status>NotChanged</Status>
+          </Attachment>
+        </Tooth>
+        <Tooth id="27">
+          <Attachment id="1" purpose="Rotation">
+            <Type>Optimized Rotation</Type>
+            <Bevel xsi:nil="true"/>
+            <Orientation xsi:nil="true"/>
+            <Location>CenterCenter</Location>
+            <Surface>Buccal</Surface>
+            <Size units="mm">autosize</Size>
+            <Status>NotChanged</Status>
+          </Attachment>
+          <Attachment id="2" purpose="Extrusion">
+            <Type>Optimized Extrusion</Type>
+            <Bevel xsi:nil="true"/>
+            <Orientation xsi:nil="true"/>
+            <Location>CenterCenter</Location>
+            <Surface>Buccal</Surface>
+            <Size units="mm">autosize</Size>
+            <Status>NotChanged</Status>
+          </Attachment>
+        </Tooth>
+        <Tooth id="28">
+          <Attachment id="1" purpose="Rotation">
+            <Type>Optimized Rotation</Type>
+            <Bevel xsi:nil="true"/>
+            <Orientation xsi:nil="true"/>
+            <Location>CenterCenter</Location>
+            <Surface>Buccal</Surface>
+            <Size units="mm">autosize</Size>
+            <Status>NotChanged</Status>
+          </Attachment>
+        </Tooth>
+        <Tooth id="29">
+          <Attachment id="1" purpose="Rotation">
+            <Type>Optimized Rotation</Type>
+            <Bevel xsi:nil="true"/>
+            <Orientation xsi:nil="true"/>
+            <Location>CenterCenter</Location>
+            <Surface>Buccal</Surface>
+            <Size units="mm">autosize</Size>
+            <Status>NotChanged</Status>
+          </Attachment>
+        </Tooth>
+      </Attachments>
+      <IPROnFirstClinCheck qid="String" isApplicable="true" source="preference">true</IPROnFirstClinCheck>
+      <DelayStageToStartIPR qid="String" isApplicable="true" source="preference">
+        <IPRBeginStage>1</IPRBeginStage>
+      </DelayStageToStartIPR>
+      <DelayAttachmentPlacement qid="String" isApplicable="true" source="preference">
+        <AttachmentBeginStage>1</AttachmentBeginStage>
+      </DelayAttachmentPlacement>
+      <DelayStageOfExtraction qid="String" isApplicable="true" source="preference">
+        <ExtractionBeginStage>1</ExtractionBeginStage>
+      </DelayStageOfExtraction>
+      <PonticsForOpenSpaces qid="String" isApplicable="true" source="preference">
+        <FullSizePonticsOnAnteriorPosterierSpaces/>
+      </PonticsForOpenSpaces>
+      <PrecisionCutPreference qid="String" isApplicable="true" source="preference">
+        <MyClass11>
+          <Tooth id="6">
+            <PrecisionCut id="1">
+              <CutToothSurface>Buccal</CutToothSurface>
+              <CutType>
+                <Slit>
+                  <CutSlitOrientation>MesialSlit</CutSlitOrientation>
+                </Slit>
+              </CutType>
+              <CutStatus>NotChanged</CutStatus>
+            </PrecisionCut>
+          </Tooth>
+          <Tooth id="11">
+            <PrecisionCut id="1">
+              <CutToothSurface>Buccal</CutToothSurface>
+              <CutType>
+                <Slit>
+                  <CutSlitOrientation>MesialSlit</CutSlitOrientation>
+                </Slit>
+              </CutType>
+              <CutStatus>NotChanged</CutStatus>
+            </PrecisionCut>
+          </Tooth>
+          <Tooth id="30">
+            <PrecisionCut id="1">
+              <CutToothSurface>Buccal</CutToothSurface>
+              <CutType>
+                <Button>
+                  <CutButtonType>Round</CutButtonType>
+                </Button>
+              </CutType>
+              <CutStatus>NotChanged</CutStatus>
+            </PrecisionCut>
+          </Tooth>
+          <Tooth id="19">
+            <PrecisionCut id="1">
+              <CutToothSurface>Buccal</CutToothSurface>
+              <CutType>
+                <Button>
+                  <CutButtonType>Round</CutButtonType>
+                </Button>
+              </CutType>
+              <CutStatus>NotChanged</CutStatus>
+            </PrecisionCut>
+          </Tooth>
+        </MyClass11>
+        <MyClass111>
+          <Tooth id="3">
+            <PrecisionCut id="1">
+              <CutToothSurface>Buccal</CutToothSurface>
+              <CutType>
+                <Button>
+                  <CutButtonType>Round</CutButtonType>
+                </Button>
+              </CutType>
+              <CutStatus>NotChanged</CutStatus>
+            </PrecisionCut>
+          </Tooth>
+          <Tooth id="14">
+            <PrecisionCut id="1">
+              <CutToothSurface>Buccal</CutToothSurface>
+              <CutType>
+                <Button>
+                  <CutButtonType>Round</CutButtonType>
+                </Button>
+              </CutType>
+              <CutStatus>NotChanged</CutStatus>
+            </PrecisionCut>
+          </Tooth>
+          <Tooth id="27">
+            <PrecisionCut id="1">
+              <CutToothSurface>Buccal</CutToothSurface>
+              <CutType>
+                <Slit>
+                  <CutSlitOrientation>MesialSlit</CutSlitOrientation>
+                </Slit>
+              </CutType>
+              <CutStatus>NotChanged</CutStatus>
+            </PrecisionCut>
+          </Tooth>
+          <Tooth id="22">
+            <PrecisionCut id="1">
+              <CutToothSurface>Buccal</CutToothSurface>
+              <CutType>
+                <Slit>
+                  <CutSlitOrientation>MesialSlit</CutSlitOrientation>
+                </Slit>
+              </CutType>
+              <CutStatus>NotChanged</CutStatus>
+            </PrecisionCut>
+          </Tooth>
+        </MyClass111>
+        <MyMA>
+          <Tooth id="6">
+            <PrecisionCut id="1">
+              <CutToothSurface>Buccal</CutToothSurface>
+              <CutType>
+                <Slit>
+                  <CutSlitOrientation>MesialSlit</CutSlitOrientation>
+                </Slit>
+              </CutType>
+              <CutStatus>NotChanged</CutStatus>
+            </PrecisionCut>
+          </Tooth>
+          <Tooth id="11">
+            <PrecisionCut id="1">
+              <CutToothSurface>Buccal</CutToothSurface>
+              <CutType>
+                <Slit>
+                  <CutSlitOrientation>MesialSlit</CutSlitOrientation>
+                </Slit>
+              </CutType>
+              <CutStatus>NotChanged</CutStatus>
+            </PrecisionCut>
+          </Tooth>
+          <Tooth id="28">
+            <PrecisionCut id="1">
+              <CutToothSurface>Buccal</CutToothSurface>
+              <CutType>
+                <Slit>
+                  <CutSlitOrientation>DistalSlit</CutSlitOrientation>
+                </Slit>
+              </CutType>
+              <CutStatus>NotChanged</CutStatus>
+            </PrecisionCut>
+          </Tooth>
+          <Tooth id="21">
+            <PrecisionCut id="1">
+              <CutToothSurface>Buccal</CutToothSurface>
+              <CutType>
+                <Slit>
+                  <CutSlitOrientation>DistalSlit</CutSlitOrientation>
+                </Slit>
+              </CutType>
+              <CutStatus>NotChanged</CutStatus>
+            </PrecisionCut>
+          </Tooth>
+        </MyMA>
+        <StageToStartPrecisionCuts>1</StageToStartPrecisionCuts>
+      </PrecisionCutPreference>
+      <ArchExpansion>
+        <ArchExpansionType qid="String" isApplicable="true" source="preference">IncreasingWidthAll</ArchExpansionType>
+        <ExpansionAmount qid="String" isApplicable="true" source="preference">LessThanOrEqualTo2mm</ExpansionAmount>
+      </ArchExpansion>
+      <ToothSizeDiscrepancy qid="String" isApplicable="true" source="preference">LeaveSpaceDistalToLaterals</ToothSizeDiscrepancy>
+      <PassiveAlignersPreference qid="String" isApplicable="true" source="preference">YesAddPassiveAligners</PassiveAlignersPreference>
+      <AlignerTrimming qid="String" isApplicable="true" source="preference">ToCEJLine</AlignerTrimming>
+      <ApplyVirtualCChainMethod qid="String" isApplicable="true" source="preference">false</ApplyVirtualCChainMethod>
+      <OptimizedAttachmentVsPrecisionCut xsi:nil="true" qid="String" isApplicable="false" source="product"/>
+      <DentalRecordsOrigin isApplicable="true" source="rx">
+        <Type>Impressions</Type>
+      </DentalRecordsOrigin>
+      <RxFormTemplate source="product" isApplicable="true">
+        <TemplateName>None</TemplateName>
+        <TemplateSelected>NotApplicable</TemplateSelected>
+      </RxFormTemplate>
+      <TreatedArches qid="String" isApplicable="true" source="product">
+        <Both/>
+      </TreatedArches>
+      <TeethToBeTreated isApplicable="true" source="product">Full</TeethToBeTreated>
+      <DoNotMoveTeeth isApplicable="true" source="product">
+        <None/>
+      </DoNotMoveTeeth>
+      <TeethPermittedForAttachments isApplicable="true" source="product">
+        <AnyTeeth/>
+      </TeethPermittedForAttachments>
+      <APRelation qid="String" isApplicable="true" source="product">
+        <APRelationshipType>
+          <Left>Maintain</Left>
+          <Right>Maintain</Right>
+        </APRelationshipType>
+        <APRelationshipOptions xsi:nil="true"/>
+      </APRelation>
+      <OverJet qid="String" isApplicable="true" source="product">ShowResultantOverjetAfterAlignment</OverJet>
+      <OverBite qid="String" isApplicable="true" source="product">
+        <MaintainResultantOverbiteAfterAlignment/>
+      </OverBite>
+      <BiteRampsUpper qid="String" isApplicable="true" source="product">
+        <None/>
+      </BiteRampsUpper>
+      <Midline qid="String" isApplicable="true" source="product">
+        <ShowResultantMidlineAfterAlignment/>
+      </Midline>
+      <ArchLengthDiscrepancy qid="String" isApplicable="true" source="rx">
+        <CloseAllSpaces/>
+      </ArchLengthDiscrepancy>
+      <Crowding qid="String" isApplicable="true" source="rx">
+        <UpperArch>
+          <Expand>IfNeeded</Expand>
+          <Procline>IfNeeded</Procline>
+          <IPR>
+            <Anterior>IfNeeded</Anterior>
+            <PosteriorRight>IfNeeded</PosteriorRight>
+            <PosteriorLeft>IfNeeded</PosteriorLeft>
+          </IPR>
+        </UpperArch>
+        <LowerArch>
+          <Expand>IfNeeded</Expand>
+          <Procline>IfNeeded</Procline>
+          <IPR>
+            <Anterior>IfNeeded</Anterior>
+            <PosteriorRight>IfNeeded</PosteriorRight>
+            <PosteriorLeft>IfNeeded</PosteriorLeft>
+          </IPR>
+        </LowerArch>
+      </Crowding>
+      <Extraction isApplicable="true" source="product">
+        <None/>
+      </Extraction>
+      <SpacesForCanineAnd2ndBi qid="String" isApplicable="true" source="rx" xsi:nil="true"/>
+      <TeenSecondMolarTabs qid="String" isApplicable="true" source="rx">
+        <StartStage>1</StartStage>
+      </TeenSecondMolarTabs>
+    </PrimaryProduct>
+  </PrescriptionQuestions>
+  <Preferences xsi:noNamespaceSchemaLocation="../../../../docs/xsd/rx/i2.0/preference-i2.0.xsd">
+    <ToothNumberingSystem qid="String" isApplicable="true" source="preference">Palmer</ToothNumberingSystem>
+    <Leveling qid="String" isApplicable="true" source="preference">
+      <IncisalEdges>
+        <LevelAmount>Laterals0_5mmMoreGingivalThenCentrals</LevelAmount>
+      </IncisalEdges>
+    </Leveling>
+    <Attachments qid="String" isApplicable="true" source="preference">
+      <Tooth id="4">
+        <Attachment id="1" purpose="Rotation">
+          <Type>Optimized Rotation</Type>
+          <Bevel xsi:nil="true"/>
+          <Orientation xsi:nil="true"/>
+          <Location>CenterCenter</Location>
+          <Surface>Buccal</Surface>
+          <Size units="mm">autosize</Size>
+          <Status>NotChanged</Status>
+        </Attachment>
+      </Tooth>
+      <Tooth id="5">
+        <Attachment id="1" purpose="Rotation">
+          <Type>Optimized Rotation</Type>
+          <Bevel xsi:nil="true"/>
+          <Orientation xsi:nil="true"/>
+          <Location>CenterCenter</Location>
+          <Surface>Buccal</Surface>
+          <Size units="mm">autosize</Size>
+          <Status>NotChanged</Status>
+        </Attachment>
+      </Tooth>
+      <Tooth id="6">
+        <Attachment id="1" purpose="Rotation">
+          <Type>Optimized Rotation</Type>
+          <Bevel xsi:nil="true"/>
+          <Orientation xsi:nil="true"/>
+          <Location>CenterCenter</Location>
+          <Surface>Buccal</Surface>
+          <Size units="mm">autosize</Size>
+          <Status>NotChanged</Status>
+        </Attachment>
+        <Attachment id="2" purpose="Extrusion">
+          <Type>Optimized Extrusion</Type>
+          <Bevel xsi:nil="true"/>
+          <Orientation xsi:nil="true"/>
+          <Location>CenterCenter</Location>
+          <Surface>Buccal</Surface>
+          <Size units="mm">autosize</Size>
+          <Status>NotChanged</Status>
+        </Attachment>
+      </Tooth>
+      <Tooth id="7">
+        <Attachment id="1" purpose="Extrusion">
+          <Type>Optimized Extrusion</Type>
+          <Bevel xsi:nil="true"/>
+          <Orientation xsi:nil="true"/>
+          <Location>CenterCenter</Location>
+          <Surface>Buccal</Surface>
+          <Size units="mm">autosize</Size>
+          <Status>NotChanged</Status>
+        </Attachment>
+      </Tooth>
+      <Tooth id="8">
+        <Attachment id="1" purpose="Extrusion">
+          <Type>Optimized Extrusion</Type>
+          <Bevel xsi:nil="true"/>
+          <Orientation xsi:nil="true"/>
+          <Location>CenterCenter</Location>
+          <Surface>Buccal</Surface>
+          <Size units="mm">autosize</Size>
+          <Status>NotChanged</Status>
+        </Attachment>
+      </Tooth>
+      <Tooth id="9">
+        <Attachment id="1" purpose="Extrusion">
+          <Type>Optimized Extrusion</Type>
+          <Bevel xsi:nil="true"/>
+          <Orientation xsi:nil="true"/>
+          <Location>CenterCenter</Location>
+          <Surface>Buccal</Surface>
+          <Size units="mm">autosize</Size>
+          <Status>NotChanged</Status>
+        </Attachment>
+      </Tooth>
+      <Tooth id="10">
+        <Attachment id="1" purpose="Extrusion">
+          <Type>Optimized Extrusion</Type>
+          <Bevel xsi:nil="true"/>
+          <Orientation xsi:nil="true"/>
+          <Location>CenterCenter</Location>
+          <Surface>Buccal</Surface>
+          <Size units="mm">autosize</Size>
+          <Status>NotChanged</Status>
+        </Attachment>
+      </Tooth>
+      <Tooth id="11">
+        <Attachment id="1" purpose="Rotation">
+          <Type>Optimized Rotation</Type>
+          <Bevel xsi:nil="true"/>
+          <Orientation xsi:nil="true"/>
+          <Location>CenterCenter</Location>
+          <Surface>Buccal</Surface>
+          <Size units="mm">autosize</Size>
+          <Status>NotChanged</Status>
+        </Attachment>
+        <Attachment id="2" purpose="Extrusion">
+          <Type>Optimized Extrusion</Type>
+          <Bevel xsi:nil="true"/>
+          <Orientation xsi:nil="true"/>
+          <Location>CenterCenter</Location>
+          <Surface>Buccal</Surface>
+          <Size units="mm">autosize</Size>
+          <Status>NotChanged</Status>
+        </Attachment>
+      </Tooth>
+      <Tooth id="12">
+        <Attachment id="1" purpose="Rotation">
+          <Type>Optimized Rotation</Type>
+          <Bevel xsi:nil="true"/>
+          <Orientation xsi:nil="true"/>
+          <Location>CenterCenter</Location>
+          <Surface>Buccal</Surface>
+          <Size units="mm">autosize</Size>
+          <Status>NotChanged</Status>
+        </Attachment>
+      </Tooth>
+      <Tooth id="13">
+        <Attachment id="1" purpose="Rotation">
+          <Type>Optimized Rotation</Type>
+          <Bevel xsi:nil="true"/>
+          <Orientation xsi:nil="true"/>
+          <Location>CenterCenter</Location>
+          <Surface>Buccal</Surface>
+          <Size units="mm">autosize</Size>
+          <Status>NotChanged</Status>
+        </Attachment>
+      </Tooth>
+      <Tooth id="20">
+        <Attachment id="1" purpose="Rotation">
+          <Type>Optimized Rotation</Type>
+          <Bevel xsi:nil="true"/>
+          <Orientation xsi:nil="true"/>
+          <Location>CenterCenter</Location>
+          <Surface>Buccal</Surface>
+          <Size units="mm">autosize</Size>
+          <Status>NotChanged</Status>
+        </Attachment>
+      </Tooth>
+      <Tooth id="21">
+        <Attachment id="1" purpose="Rotation">
+          <Type>Optimized Rotation</Type>
+          <Bevel xsi:nil="true"/>
+          <Orientation xsi:nil="true"/>
+          <Location>CenterCenter</Location>
+          <Surface>Buccal</Surface>
+          <Size units="mm">autosize</Size>
+          <Status>NotChanged</Status>
+        </Attachment>
+      </Tooth>
+      <Tooth id="22">
+        <Attachment id="1" purpose="Rotation">
+          <Type>Optimized Rotation</Type>
+          <Bevel xsi:nil="true"/>
+          <Orientation xsi:nil="true"/>
+          <Location>CenterCenter</Location>
+          <Surface>Buccal</Surface>
+          <Size units="mm">autosize</Size>
+          <Status>NotChanged</Status>
+        </Attachment>
+        <Attachment id="2" purpose="Extrusion">
+          <Type>Optimized Extrusion</Type>
+          <Bevel xsi:nil="true"/>
+          <Orientation xsi:nil="true"/>
+          <Location>CenterCenter</Location>
+          <Surface>Buccal</Surface>
+          <Size units="mm">autosize</Size>
+          <Status>NotChanged</Status>
+        </Attachment>
+      </Tooth>
+      <Tooth id="23">
+        <Attachment id="1" purpose="Extrusion">
+          <Type>Optimized Extrusion</Type>
+          <Bevel xsi:nil="true"/>
+          <Orientation xsi:nil="true"/>
+          <Location>CenterCenter</Location>
+          <Surface>Buccal</Surface>
+          <Size units="mm">autosize</Size>
+          <Status>NotChanged</Status>
+        </Attachment>
+      </Tooth>
+      <Tooth id="24">
+        <Attachment id="1" purpose="Extrusion">
+          <Type>Optimized Extrusion</Type>
+          <Bevel xsi:nil="true"/>
+          <Orientation xsi:nil="true"/>
+          <Location>CenterCenter</Location>
+          <Surface>Buccal</Surface>
+          <Size units="mm">autosize</Size>
+          <Status>NotChanged</Status>
+        </Attachment>
+      </Tooth>
+      <Tooth id="25">
+        <Attachment id="1" purpose="Extrusion">
+          <Type>Optimized Extrusion</Type>
+          <Bevel xsi:nil="true"/>
+          <Orientation xsi:nil="true"/>
+          <Location>CenterCenter</Location>
+          <Surface>Buccal</Surface>
+          <Size units="mm">autosize</Size>
+          <Status>NotChanged</Status>
+        </Attachment>
+      </Tooth>
+      <Tooth id="26">
+        <Attachment id="1" purpose="Extrusion">
+          <Type>Optimized Extrusion</Type>
+          <Bevel xsi:nil="true"/>
+          <Orientation xsi:nil="true"/>
+          <Location>CenterCenter</Location>
+          <Surface>Buccal</Surface>
+          <Size units="mm">autosize</Size>
+          <Status>NotChanged</Status>
+        </Attachment>
+      </Tooth>
+      <Tooth id="27">
+        <Attachment id="1" purpose="Rotation">
+          <Type>Optimized Rotation</Type>
+          <Bevel xsi:nil="true"/>
+          <Orientation xsi:nil="true"/>
+          <Location>CenterCenter</Location>
+          <Surface>Buccal</Surface>
+          <Size units="mm">autosize</Size>
+          <Status>NotChanged</Status>
+        </Attachment>
+        <Attachment id="2" purpose="Extrusion">
+          <Type>Optimized Extrusion</Type>
+          <Bevel xsi:nil="true"/>
+          <Orientation xsi:nil="true"/>
+          <Location>CenterCenter</Location>
+          <Surface>Buccal</Surface>
+          <Size units="mm">autosize</Size>
+          <Status>NotChanged</Status>
+        </Attachment>
+      </Tooth>
+      <Tooth id="28">
+        <Attachment id="1" purpose="Rotation">
+          <Type>Optimized Rotation</Type>
+          <Bevel xsi:nil="true"/>
+          <Orientation xsi:nil="true"/>
+          <Location>CenterCenter</Location>
+          <Surface>Buccal</Surface>
+          <Size units="mm">autosize</Size>
+          <Status>NotChanged</Status>
+        </Attachment>
+      </Tooth>
+      <Tooth id="29">
+        <Attachment id="1" purpose="Rotation">
+          <Type>Optimized Rotation</Type>
+          <Bevel xsi:nil="true"/>
+          <Orientation xsi:nil="true"/>
+          <Location>CenterCenter</Location>
+          <Surface>Buccal</Surface>
+          <Size units="mm">autosize</Size>
+          <Status>NotChanged</Status>
+        </Attachment>
+      </Tooth>
+    </Attachments>
+    <IPROnFirstClinCheck qid="String" isApplicable="true" source="preference">true</IPROnFirstClinCheck>
+    <IPROnPermanentTeeth qid="String" isApplicable="true" source="preference">true</IPROnPermanentTeeth>
+    <IPROnPrimaryTeeth qid="String" isApplicable="true" source="preference">false</IPROnPrimaryTeeth>
+    <ToothStagingForArchExpansion qid="String" isApplicable="true" source="preference">MolarsMoveFirstFollowedBySimultaneousStaging</ToothStagingForArchExpansion>
+    <DelayStageToStartIPR qid="String" isApplicable="true" source="preference">
+      <IPRBeginStage>1</IPRBeginStage>
+    </DelayStageToStartIPR>
+    <DelayAttachmentPlacement qid="String" isApplicable="true" source="preference">
+      <AttachmentBeginStage>1</AttachmentBeginStage>
+    </DelayAttachmentPlacement>
+    <DelayStageOfExtraction qid="String" isApplicable="true" source="preference">
+      <ExtractionBeginStage>1</ExtractionBeginStage>
+    </DelayStageOfExtraction>
+    <PonticsForOpenSpaces qid="String" isApplicable="true" source="preference">
+      <FullSizePonticsOnAnteriorPosterierSpaces/>
+    </PonticsForOpenSpaces>
+    <PrecisionCutPreference qid="String" isApplicable="true" source="preference">
+      <MyClass11>
+        <Tooth id="6">
+          <PrecisionCut id="1">
+            <CutToothSurface>Buccal</CutToothSurface>
+            <CutType>
+              <Slit>
+                <CutSlitOrientation>MesialSlit</CutSlitOrientation>
+              </Slit>
+            </CutType>
+            <CutStatus>NotChanged</CutStatus>
+          </PrecisionCut>
+        </Tooth>
+        <Tooth id="11">
+          <PrecisionCut id="1">
+            <CutToothSurface>Buccal</CutToothSurface>
+            <CutType>
+              <Slit>
+                <CutSlitOrientation>MesialSlit</CutSlitOrientation>
+              </Slit>
+            </CutType>
+            <CutStatus>NotChanged</CutStatus>
+          </PrecisionCut>
+        </Tooth>
+        <Tooth id="30">
+          <PrecisionCut id="1">
+            <CutToothSurface>Buccal</CutToothSurface>
+            <CutType>
+              <Button>
+                <CutButtonType>Round</CutButtonType>
+              </Button>
+            </CutType>
+            <CutStatus>NotChanged</CutStatus>
+          </PrecisionCut>
+        </Tooth>
+        <Tooth id="19">
+          <PrecisionCut id="1">
+            <CutToothSurface>Buccal</CutToothSurface>
+            <CutType>
+              <Button>
+                <CutButtonType>Round</CutButtonType>
+              </Button>
+            </CutType>
+            <CutStatus>NotChanged</CutStatus>
+          </PrecisionCut>
+        </Tooth>
+      </MyClass11>
+      <MyClass111>
+        <Tooth id="3">
+          <PrecisionCut id="1">
+            <CutToothSurface>Buccal</CutToothSurface>
+            <CutType>
+              <Button>
+                <CutButtonType>Round</CutButtonType>
+              </Button>
+            </CutType>
+            <CutStatus>NotChanged</CutStatus>
+          </PrecisionCut>
+        </Tooth>
+        <Tooth id="14">
+          <PrecisionCut id="1">
+            <CutToothSurface>Buccal</CutToothSurface>
+            <CutType>
+              <Button>
+                <CutButtonType>Round</CutButtonType>
+              </Button>
+            </CutType>
+            <CutStatus>NotChanged</CutStatus>
+          </PrecisionCut>
+        </Tooth>
+        <Tooth id="27">
+          <PrecisionCut id="1">
+            <CutToothSurface>Buccal</CutToothSurface>
+            <CutType>
+              <Slit>
+                <CutSlitOrientation>MesialSlit</CutSlitOrientation>
+              </Slit>
+            </CutType>
+            <CutStatus>NotChanged</CutStatus>
+          </PrecisionCut>
+        </Tooth>
+        <Tooth id="22">
+          <PrecisionCut id="1">
+            <CutToothSurface>Buccal</CutToothSurface>
+            <CutType>
+              <Slit>
+                <CutSlitOrientation>MesialSlit</CutSlitOrientation>
+              </Slit>
+            </CutType>
+            <CutStatus>NotChanged</CutStatus>
+          </PrecisionCut>
+        </Tooth>
+      </MyClass111>
+      <MyMA>
+        <Tooth id="6">
+          <PrecisionCut id="1">
+            <CutToothSurface>Buccal</CutToothSurface>
+            <CutType>
+              <Slit>
+                <CutSlitOrientation>MesialSlit</CutSlitOrientation>
+              </Slit>
+            </CutType>
+            <CutStatus>NotChanged</CutStatus>
+          </PrecisionCut>
+        </Tooth>
+        <Tooth id="11">
+          <PrecisionCut id="1">
+            <CutToothSurface>Buccal</CutToothSurface>
+            <CutType>
+              <Slit>
+                <CutSlitOrientation>MesialSlit</CutSlitOrientation>
+              </Slit>
+            </CutType>
+            <CutStatus>NotChanged</CutStatus>
+          </PrecisionCut>
+        </Tooth>
+        <Tooth id="28">
+          <PrecisionCut id="1">
+            <CutToothSurface>Buccal</CutToothSurface>
+            <CutType>
+              <Slit>
+                <CutSlitOrientation>DistalSlit</CutSlitOrientation>
+              </Slit>
+            </CutType>
+            <CutStatus>NotChanged</CutStatus>
+          </PrecisionCut>
+        </Tooth>
+        <Tooth id="21">
+          <PrecisionCut id="1">
+            <CutToothSurface>Buccal</CutToothSurface>
+            <CutType>
+              <Slit>
+                <CutSlitOrientation>DistalSlit</CutSlitOrientation>
+              </Slit>
+            </CutType>
+            <CutStatus>NotChanged</CutStatus>
+          </PrecisionCut>
+        </Tooth>
+      </MyMA>
+      <StageToStartPrecisionCuts>1</StageToStartPrecisionCuts>
+    </PrecisionCutPreference>
+    <ArchExpansion>
+      <ArchExpansionType qid="String" isApplicable="true" source="preference">IncreasingWidthAll</ArchExpansionType>
+      <ExpansionAmount qid="String" isApplicable="true" source="preference">LessThanOrEqualTo2mm</ExpansionAmount>
+    </ArchExpansion>
+    <ToothSizeDiscrepancy qid="String" isApplicable="true" source="preference">LeaveSpaceDistalToLaterals</ToothSizeDiscrepancy>
+    <PassiveAlignersPreference qid="String" isApplicable="true" source="preference">YesAddPassiveAligners</PassiveAlignersPreference>
+    <AlignerTrimming qid="String" isApplicable="true" source="preference">ToCEJLine</AlignerTrimming>
+    <ApplyVirtualCChainMethod qid="String" isApplicable="true" source="preference">false</ApplyVirtualCChainMethod>
+    <OptimizedAttachmentVsPrecisionCut qid="String" isApplicable="true" source="preference">
+      <OptimizedAttachmentInsteadOfPrecisionCut>
+        <ChangeCutoutToHook>true</ChangeCutoutToHook>
+      </OptimizedAttachmentInsteadOfPrecisionCut>
+    </OptimizedAttachmentVsPrecisionCut>
+  </Preferences>
+</PrescriptionFormData>

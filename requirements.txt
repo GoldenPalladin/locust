@@ -1,0 +1,7 @@
+locustio==0.13.5
+pyyaml
+requests==2.22.0
+signalfx
+gevent==1.5a2
+urllib3==1.25.7
+iso8601==0.1.12

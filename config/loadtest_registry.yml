@@ -1,0 +1,10 @@
+current: ACS
+registered:
+  TPData:
+    profile: tests/TPData/profile.yml
+
+  TPCompute:
+    profile: tests/TPCompute/profile.yml
+
+  ACS:
+    profile: tests/ACS/profile.yml

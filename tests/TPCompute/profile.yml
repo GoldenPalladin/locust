@@ -1,0 +1,47 @@
+# load test config and profile
+test_header:
+  name: TPCompute       # name of the test and corresponding lambda-function
+  description: Create and check treatment variants
+  env: cs1            # env config filename to use in clients and endpoints
+  location: us-west-2 # aws location to create and start test in
+
+
+profile:
+  runner:
+    # Valid formats for durations are: 20, 20s, 3m, 2h, 1h20m, 3h30m10s, etc.
+    clients: 50       # maximum amount of clients executing load script (max load level)
+    hatch_rate: 5     # clients per second, used in step load too
+    duration: 3m      # overall test duration
+    step_load: false  # true -- clients will be hatched in steps. No steps = clients/step_clients.
+    # false -- clients will be hatched continuously until 'client' level will be reached.
+    step_duration: 2m # step duration, after step ends new step (and users hatch) will start
+    step_clients: 150 # num clients to be hatched at step, after reaching this, load level will stay the same until step time ends
+  test:
+    locustfile: tests/TPCompute/locustfile.py #path to file with test script
+    debug: true      # true -- script will be run in debug mode, normal is false
+  logging:
+    loglevel: INFO    # Choose between DEBUG/INFO/WARNING/ERROR/CRITICAL. Default is INFO.
+    final_stats: false # true -- stats will be emitted by listeners only when test is ended
+    # false -- stats will be emitted periodically
+    listeners: [Sfx, Splunk] #list of any in Sfx, Splunk, Debug
+    hyperclient_console_log_level: CRITICAL # CRITICAL to avoid load generator console/logs flooding
+
+  MTP_COUNT: 60
+  PLANNUMBER_COUNT: 3
+  REVISIONS_COUNT: 5
+
+
+datapool:
+  wcc_filesize: 1000
+  adf_filesize: 1000
+  treatment_data_filesize: 1000
+  patient:
+    PID: 272966155
+    VOI: 22232
+    SO: 349875855
+    IID: ids:272966155
+    TAGS: ["so=349875855"]
+    TREAT_SAVE_ID: 4fb93e9e-79ac-849a-4625-25cc494cff7a
+    CLIN_ID: usdoctor
+    COUNTRY_CODE: US
+
